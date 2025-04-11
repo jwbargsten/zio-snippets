@@ -1,2 +1,2 @@
 fmt:
-	sbt scalafmtAll
+	sbt format
